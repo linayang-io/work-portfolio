@@ -10,6 +10,10 @@ For almost 2 years, I recently had been working as a Marketing Analyst at [The S
 I earned my certifications in Data Analysis and Data Science from [General Assembly](https://generalassemb.ly/), where I have also acted as a teaching assistant for the part-time data analytics courses upon my certification completion. I am also certified in Google Analytics Individual Qualification (Completion ID: 9878272). 
 
 # My Work Samples
+### Data Visualization with Google Data Studio
+
+### Data Analysis of Google Merchandise Store using Google BigQuery
+
 ### [Data Analysis using SQL](https://github.com/linayang-io/sql-worksample.git)
 During my General Assembly certification course in data analytics, one of our projects was to run SQL queries in a PostgreSQL database that houses a [test flight](https://web.archive.org/web/20160304073326/https://testpilot.mozillalabs.com/testcases/a-week-life-2/aggregated-data.html) with customer surveys and usage analytics of Mozilla Firefox users. There were three tables we could call and join from for our analysis. Based on our findings, we were instructed to give recommendations on whether Mozilla Firefox should invest in revamping tabs or bookmarks in new versions of the browser. 
 
