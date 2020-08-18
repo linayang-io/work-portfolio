@@ -11,8 +11,18 @@ I earned my certifications in Data Analysis and Data Science from [General Assem
 
 # My Work Samples
 ### Data Visualization with Google Data Studio
+Using a open source data set from Kaggle.com, I explored and visualized the diversity and demographics the workforce for 23 top tech companies. The original data set can be found [here](https://www.kaggle.com/rtatman/silicon-valley-diversity-data). In addition to visualizing the data set, I wrote custom calculations within Google Data Studio to measure
 
-### Data Analysis of Google Merchandise Store using Google BigQuery
+*August 2020*
+__________
+
+### Data Visualization with Tableau
+Using 
+
+### Data Analysis and Visualization using Google BigQuery, Pandas, Numpy, Matplotlib, Seaborn of Google Merchandise Store
+
+*August 2020*
+_________
 
 ### [Data Analysis using SQL](https://github.com/linayang-io/sql-worksample.git)
 During my General Assembly certification course in data analytics, one of our projects was to run SQL queries in a PostgreSQL database that houses a [test flight](https://web.archive.org/web/20160304073326/https://testpilot.mozillalabs.com/testcases/a-week-life-2/aggregated-data.html) with customer surveys and usage analytics of Mozilla Firefox users. There were three tables we could call and join from for our analysis. Based on our findings, we were instructed to give recommendations on whether Mozilla Firefox should invest in revamping tabs or bookmarks in new versions of the browser. 
