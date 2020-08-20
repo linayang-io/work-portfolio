@@ -11,13 +11,13 @@ I earned my certifications in Data Analysis and Data Science from [General Assem
 
 # My Work Samples
 ### Data Visualization with Google Data Studio
-Using a open source data set from Kaggle.com, I explored and visualized the diversity and demographics the workforce for 23 top tech companies. The original data set can be found [here](https://www.kaggle.com/rtatman/silicon-valley-diversity-data). In addition to visualizing the data set, I wrote custom calculations within Google Data Studio to measure gender disparity using the Gender Parity Index calculation as benchmark. 
+Using a open source data set from Kaggle.com, I explored and visualized the diversity and demographics the workforce for 23 top tech companies. The original data set can be found [here](https://www.kaggle.com/rtatman/silicon-valley-diversity-data). In addition to visualizing the data set, I wrote custom calculations within Google Data Studio to measure gender disparity using the Gender Parity Index calculation as the benchmark. 
 
 *August 2020*
 __________
 
 ### Data Visualization with Tableau
-Using open source 311 data from NYC Open Data, this dashboard I created in Tableau ranks each borough by highest volume of complaints and shows the geographical hot spots for each type of complaint. 
+Using open source 311 data from NYC Open Data, this dashboard I created in Tableau ranks each borough by highest volume of complaints and shows the geographical hot spots for each type of complaint. The original data set can be found [here](https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9). I called the dataset's Socrata API through Tableau API. 
 __________
 
 ### Data Analysis and Visualization using Google BigQuery, Pandas, Numpy, Matplotlib, Seaborn of Google Merchandise Store
