@@ -11,7 +11,7 @@ I earned my certifications in Data Analysis and Data Science from [General Assem
 
 # My Work Samples
 ### Data Visualization with Google Data Studio
-Using a open source data set from Kaggle.com, I explored and visualized the diversity and demographics the workforce for 23 top tech companies. The original data set can be found [here](https://www.kaggle.com/rtatman/silicon-valley-diversity-data). In addition to visualizing the data set, I wrote custom calculations within Google Data Studio to measure gender disparity using the Gender Parity Index calculation as the benchmark. 
+Using a open source data set from Kaggle.com, I explored and visualized the diversity and demographics the workforce for 23 top tech companies. The original data set can be found [here](https://www.kaggle.com/rtatman/silicon-valley-diversity-data). In addition to visualizing the data set, I wrote custom calculations and created a slider selector to measure gender disparity using the Gender Parity Index calculation as the benchmark. 
 
 *August 2020*
 __________
