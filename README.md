@@ -13,7 +13,7 @@ I earned my certifications in Data Analysis and Data Science from [General Assem
 ### Data Visualization with Google Data Studio
 ![Google Data Studio DB Demo](https://github.com/linayang-io/googledatastudio-worksample/blob/master/lyang_gds_demo.gif)
 
-Using a open source data set from Kaggle.com, I explored and visualized the diversity and demographics the workforce for 23 top tech companies. The original data set can be found [here](https://www.kaggle.com/rtatman/silicon-valley-diversity-data). In addition to visualizing the data set, I wrote custom calculations and created a slider selector to measure gender disparity using the Gender Parity Index calculation as the benchmark. Click [here](https://datastudio.google.com/reporting/e71e98cb-f2e8-4bda-8c11-ed203cd201f7/page/6DecB) to interact with dashboard in platform.
+Using a open source data set from Kaggle.com, I explored and visualized the diversity and workforce demographics of 23 top tech companies. The original data set can be found [here](https://www.kaggle.com/rtatman/silicon-valley-diversity-data). In addition to visualizing the data set, I wrote custom calculations and created a slider selector to measure gender disparity using the Gender Parity Index calculation as the benchmark. Click [here](https://datastudio.google.com/reporting/e71e98cb-f2e8-4bda-8c11-ed203cd201f7/page/6DecB) to interact with dashboard in platform.
 
 *August 2020*
 __________
