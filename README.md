@@ -22,22 +22,14 @@ __________
 Using open source 311 data from NYC Open Data, this dashboard I created in Tableau ranks each borough by highest volume of complaints and shows the geographical hot spots for each type of complaint. The original data set can be found [here](https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9). I called the dataset's Socrata API through Tableau API. 
 __________
 
-### Data Analysis and Visualization using Google BigQuery, Pandas, Numpy, Matplotlib, Seaborn of Google Merchandise Store
-
-*August 2020*
+### Data Analysis and Visualization using Google BigQuery, Pandas, Numpy, Matplotlib, Seaborn, Plotly of Google Merchandise Store
+As a marketing and sales analyst, I am often tasked to offer descriptive analysis on website performance. Using a sample data set that contains Google Analytics 360 data from the Google Merchandise Store, I used Python and Google BigQuery to explore 3 months of the site's performance in 2016. I visualized and examined patterns using Python libraries and using Google BigQuery to export table data based on different criterias. 
 _________
 
 ### [Data Analysis using SQL](https://github.com/linayang-io/sql-worksample.git)
 During my General Assembly certification course in data analytics, one of our projects was to run SQL queries in a PostgreSQL database that houses a [test flight](https://web.archive.org/web/20160304073326/https://testpilot.mozillalabs.com/testcases/a-week-life-2/aggregated-data.html) with customer surveys and usage analytics of Mozilla Firefox users. There were three tables we could call and join from for our analysis. Based on our findings, we were instructed to give recommendations on whether Mozilla Firefox should invest in revamping tabs or bookmarks in new versions of the browser. 
 
 *September 2017*
-_________
-### [Pandas, Numpy, Matplotlib, Seaborn for Data Visualization](https://github.com/linayang-io/python-eda-worksample.git)
-![alt text](https://github.com/linayang-io/python-eda-worksample/blob/master/tickets_corr_by_program_subplt.png)
-
-One of my projects while working as a marketing and sales analyst was offering descriptive analysis on ticket sales. I visualized and examined patterns using Python libraries. The data in this portfolio is redacted and modified to protect the confidentiality of the organization's business.
-
-*December 2019*
 _________
 ### [Linear Regression and KNN Practice](https://github.com/linayang-io/ga-datr813_project3.git)
 During the General Assembly certification course in data science, we were given guided prompts to build a linear regression model using open-sourced Boston housing data and a KNN model using an iris dataset. The link above links to a copy of the original General Assembly repo and Jupyter notebook exploring these algorithms. I received high marks from my instructors on this assignment.
