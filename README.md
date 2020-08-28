@@ -22,7 +22,7 @@ __________
 Using open source 311 data from NYC Open Data, this dashboard I created in Tableau ranks each borough by highest volume of complaints and shows the geographical hot spots for each type of complaint. The original data set can be found [here](https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9). I called the dataset's Socrata API through Tableau API. 
 __________
 
-### Data Analysis and Visualization using Google BigQuery, Pandas, Numpy, Matplotlib, Seaborn, Plotly of Google Merchandise Store
+### [Data Analysis and Visualization using Google BigQuery, Pandas, Numpy, Matplotlib, Seaborn, Plotly of Google Merchandise Store](https://github.com/linayang-io/python-ga-eda-worksample)
 As a marketing and sales analyst, I am often tasked to offer descriptive analysis on website performance. Using a sample data set that contains Google Analytics 360 data from the Google Merchandise Store, I used Python and Google BigQuery to explore 3 months of the site's performance in 2016. I visualized and examined patterns using Python libraries and using Google BigQuery to export table data based on different criterias. 
 _________
 
