@@ -20,14 +20,16 @@ __________
 
 ### Data Visualization with Tableau
 Using open source 311 data from NYC Open Data, this dashboard I created in Tableau ranks each borough by highest volume of complaints and shows the geographical hot spots for each type of complaint. The original data set can be found [here](https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9). I called the dataset's Socrata API through Tableau API. 
+
+*November 2018. revised in August 2020*
 __________
 
 ### [Data Analysis and Visualization using Google BigQuery, Pandas, Numpy, Matplotlib, Seaborn, Plotly of Google Merchandise Store](https://github.com/linayang-io/python-ga-eda-worksample)
 ![abandoned cart funnel](https://github.com/linayang-io/python-ga-eda-worksample/blob/master/lyang_funnel_viz_demo.gif)
 
-As a marketing and sales analyst, I am often tasked to offer descriptive analysis on website performance. Using a sample data set that contains Google Analytics 360 data from the Google Merchandise Store, I used Python and Google BigQuery to explore 3 months of the site's performance in 2016. I used Google BigQuery to export table data based on different criterias and visualized and examined patterns using Python libraries. 
+As a marketing and sales analyst, I am often tasked to offer descriptive analysis on website performance. Using a sample data set that contains Google Analytics 360 data from the Google Merchandise Store, I used Python and Google BigQuery to explore 3 months of the site's performance in 2016 in [Kaggle Kernels](https://www.kaggle.com/bigquery/google-analytics-sample). I used Google BigQuery to export table data based on different criterias and visualized and examined patterns using Python libraries. 
 
-You can find my original Kaggle notebook [here](https://www.kaggle.com/linayang/google-analytics-sample-eda). 
+Find my original Kaggle notebook [here](https://www.kaggle.com/linayang/google-analytics-sample-eda). 
 
 *August 2020*
 _________
