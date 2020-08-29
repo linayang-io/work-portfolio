@@ -26,6 +26,8 @@ __________
 ![abandoned cart funnel](https://github.com/linayang-io/python-ga-eda-worksample/blob/master/lyang_funnel_viz_demo.gif)
 
 As a marketing and sales analyst, I am often tasked to offer descriptive analysis on website performance. Using a sample data set that contains Google Analytics 360 data from the Google Merchandise Store, I used Python and Google BigQuery to explore 3 months of the site's performance in 2016. I visualized and examined patterns using Python libraries and using Google BigQuery to export table data based on different criterias. 
+
+* August 2020 *
 _________
 
 ### [Data Analysis using SQL](https://github.com/linayang-io/sql-worksample.git)
