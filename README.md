@@ -19,6 +19,8 @@ Using a open source data set from Kaggle.com, I explored and visualized the dive
 __________
 
 ### [Data Visualization with Tableau](https://github.com/linayang-io/tableau-worksample1)
+![tableau dashboard](https://github.com/linayang-io/tableau-worksample1/blob/master/tableau_worksample_demo.gif)
+
 Using open source 311 data from NYC Open Data, this dashboard I created in Tableau ranks each borough by highest volume of complaints and shows the geographical hot spots for each type of complaint. The original data set can be found [here](https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9).
 *November 2018*
 __________
