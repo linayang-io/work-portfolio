@@ -29,7 +29,7 @@ __________
 ### [Data Analysis and Visualization using Google BigQuery, Pandas, Numpy, Matplotlib, Seaborn, Plotly of Google Merchandise Store](https://github.com/linayang-io/python-ga-eda-worksample)
 ![abandoned cart funnel](https://github.com/linayang-io/python-ga-eda-worksample/blob/master/lyang_funnel_viz_demo.gif)
 
-As a marketing and sales analyst, I am often tasked to offer descriptive analysis on website performance. Using a sample data set that contains Google Analytics 360 data from the Google Merchandise Store, I used Python and Google BigQuery to explore 3 months of the site's performance in 2016 in [Kaggle Kernels](https://www.kaggle.com/bigquery/google-analytics-sample). I used Google BigQuery to export table data based on different criterias and visualized and examined patterns using Python libraries. 
+As a marketing and sales analyst, I am often tasked to offer descriptive analysis on website performance. Using a sample data set that contains Google Analytics 360 data from the Google Merchandise Store, I used Python and Google BigQuery to explore 3 months of the site's performance in 2016 in [Kaggle Kernels](https://www.kaggle.com/bigquery/google-analytics-sample). I used Google BigQuery to export table data based on different criteria and visualized and examined patterns using Python libraries. 
 
 Find my original Kaggle notebook [here](https://www.kaggle.com/linayang/google-analytics-sample-eda). 
 
