@@ -7,7 +7,7 @@ I am a data analyst with 3+ years of experience working in the start-up retail a
 
 For almost 2 years, I recently had been working as a Marketing Analyst at [The Shed](https://theshed.org/), a new multidisciplinary arts and cultural center that opened in April 2019 in New York City, Hudson Yards neighborhood. I established the company’s first marketing data analytics strategies, creating dynamic dashboards and reports to analyze and accurately forecast ticket sales on a weekly, monthly, and quarterly basis and reported on digital marketing initiatives, including A/B testing for email campaigns and website attribution. I also helped with survey designs and analyzed qualitative and quantitative data to understand customer behavior and sentiment. 
 
-I earned my certifications in Data Analysis and Data Science from [General Assembly](https://generalassemb.ly/), where I have also acted as a teaching assistant for the part-time data analytics courses upon my certification completion. I am also certified in Google Analytics Individual Qualification (Completion ID: 9878272). 
+I earned my certifications in Data Analysis and Data Science from [General Assembly](https://generalassemb.ly/), where I have also acted as a teaching assistant for the part-time data analytics courses upon my certification completion. I am also certified in Advanced Google Analytics. (Completion ID: 9878272). 
 
 # My Work Samples
 ### [Data Visualization with Google Data Studio](https://github.com/linayang-io/googledatastudio-worksample)
