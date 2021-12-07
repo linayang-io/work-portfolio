@@ -5,9 +5,11 @@ I am a data analyst with 3+ years of experience working in the start-up retail a
 # My Professional Experience
 ![alt text](https://github.com/linayang-io/portfolio/blob/master/LinkedInProfile.png)
 
+I am currently a senior analyst at Starz.
+
 For almost 2 years, I recently had been working as a Marketing Analyst at [The Shed](https://theshed.org/), a new multidisciplinary arts and cultural center that opened in April 2019 in New York City, Hudson Yards neighborhood. I established the company’s first marketing data analytics strategies, creating dynamic dashboards and reports to analyze and accurately forecast ticket sales on a weekly, monthly, and quarterly basis and reported on digital marketing initiatives, including A/B testing for email campaigns and website attribution. I also helped with survey designs and analyzed qualitative and quantitative data to understand customer behavior and sentiment. 
 
-I earned my certifications in Data Analysis and Data Science from [General Assembly](https://generalassemb.ly/), where I have also acted as a teaching assistant for the part-time data analytics courses upon my certification completion. I am also certified in Advanced Google Analytics. (Completion ID: 9878272). 
+I earned my certifications in Data Analysis and Data Science from [General Assembly](https://generalassemb.ly/), where I have also acted as a teaching assistant for the part-time data analytics courses upon my certification completion. I am certified in Advanced Google Analytics. (Completion ID: 9878272), and I am currently fulfilling my masters in data science remotely at the UC Berkeley School of Information. 
 
 # My Work Samples
 ### [Data Visualization with Google Data Studio](https://github.com/linayang-io/googledatastudio-worksample)
@@ -36,10 +38,14 @@ Find my original Kaggle notebook [here](https://www.kaggle.com/linayang/google-a
 *August 2020*
 _________
 
-### [Data Analysis using SQL](https://github.com/linayang-io/sql-worksample.git)
+### [Data Analysis using PostgreSQL](https://github.com/linayang-io/sql-worksample.git)
 During my General Assembly certification course in data analytics, one of our projects was to run SQL queries in a PostgreSQL database that houses a [test flight](https://web.archive.org/web/20160304073326/https://testpilot.mozillalabs.com/testcases/a-week-life-2/aggregated-data.html) with customer surveys and usage analytics of Mozilla Firefox users. There were three tables we could call and join from for our analysis. Based on our findings, we were instructed to give recommendations on whether Mozilla Firefox should invest in revamping tabs or bookmarks in new versions of the browser. 
 
 *September 2017*
+
+### [Data Analysis using Google BigQuery SQL, Pandas, and Matplotlib]
+
+*October 2021*
 _________
 ### [Linear Regression and KNN Practice](https://github.com/linayang-io/ga-datr813_project3.git)
 During the General Assembly certification course in data science, we were given guided prompts to build a linear regression model using open-sourced Boston housing data and a KNN model using an iris dataset. The link above links to a copy of the original General Assembly repo and Jupyter notebook exploring these algorithms. I received high marks from my instructors on this assignment.
