@@ -40,6 +40,7 @@ _________
 During my General Assembly certification course in data analytics, one of our projects was to run SQL queries in a PostgreSQL database that houses a [test flight](https://web.archive.org/web/20160304073326/https://testpilot.mozillalabs.com/testcases/a-week-life-2/aggregated-data.html) with customer surveys and usage analytics of Mozilla Firefox users. There were three tables we could call and join from for our analysis. Based on our findings, we were instructed to give recommendations on whether Mozilla Firefox should invest in revamping tabs or bookmarks in new versions of the browser. 
 
 *September 2017*
+__________
 
 ### [Data Analysis using Google BigQuery SQL, Pandas, and Matplotlib](https://github.com/linayang-io/sql-worksample3)
 In my data science masters program at UC Berkeley School of Information, one of our projects was to run SQL queries on the Google BigQuery GUI interface as well as directly in the Linux command line to manipulate and fetch data to help answer prompted business questions. The project also included employing a Jupyter notebook to synthesis query results. This project was using a public dataset from the Bay Bikes Share. 
