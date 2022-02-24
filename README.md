@@ -41,7 +41,8 @@ During my General Assembly certification course in data analytics, one of our pr
 
 *September 2017*
 
-### [Data Analysis using Google BigQuery SQL, Pandas, and Matplotlib]
+### [Data Analysis using Google BigQuery SQL, Pandas, and Matplotlib](https://github.com/linayang-io/sql-worksample3)
+In my data science masters program at UC Berkeley School of Information, one of our projects was to run SQL queries on the Google BigQuery GUI interface as well as directly in the Linux command line to manipulate and fetch data to help answer prompted business questions. The project also included employing a Jupyter notebook to synthesis query results. This project was using a public dataset from the Bay Bikes Share. 
 
 *October 2021*
 _________
