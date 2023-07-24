@@ -50,13 +50,6 @@ _________
 During the General Assembly certification course in data science, we were given guided prompts to build a linear regression model using open-sourced Boston housing data and a KNN model using an iris dataset. The link above links to a copy of the original General Assembly repo and Jupyter notebook exploring these algorithms. I received high marks from my instructors on this assignment.
 
 *September 2019*
-_________
-### [Sentiment Analysis, Topic Modeling for Natural Language Processing](https://github.com/linayang-io/python-nlp-worksample.git)
-![alt text](https://github.com/linayang-io/python-nlp-worksample/blob/master/LDA_dash.PNG)
-
-For my final project in the General Assembly certification course in data science, I chose to showcase my skills in Natural Language Processing (NLP). In addition to exploratory data analysis, I used redacted, modified survey data from an employer to perform sentiment analysis and topic modeling. I used TextBlob to measure the sentiment polarity of the surveys, and I applied Latent Dirichlet Allocation (LDA) clustering to a set of qualitative survey answers to isolate the survey feedback into different topics in an unsupervised way.
-
-*October 2019*
 
 # Contact Me
 If you'd like to discuss work opportunities or just data in general, connect with me on [LinkedIn](https://www.linkedin.com/in/yanglina/). Looking forward to meeting you.  
